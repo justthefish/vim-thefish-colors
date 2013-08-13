@@ -13,7 +13,9 @@ let g:colors_name = "ir_black2"
 hi Normal guifg=#f6f3e8 guibg=black gui=NONE cterm=NONE ctermfg=15 ctermbg=16
 hi SpecialKey gui=none guifg=Blue guibg=none cterm=none ctermfg=21 ctermbg=none
 hi NonText gui=bold guifg=Blue guibg=none cterm=bold ctermfg=21 ctermbg=none
-hi Directory gui=none guifg=Blue guibg=none cterm=none ctermfg=21 ctermbg=none
+"hi Directory gui=none guifg=Blue guibg=none cterm=none ctermfg=21 ctermbg=none
+hi Directory gui=none guifg=Blue guibg=none cterm=none ctermfg=29 ctermbg=none
+
 hi ErrorMsg gui=none guifg=White guibg=Red cterm=none ctermfg=231 ctermbg=196
 hi IncSearch gui=reverse guifg=none guibg=none cterm=reverse ctermfg=none ctermbg=none
 hi Search gui=none guifg=none guibg=Yellow cterm=none ctermfg=none ctermbg=226
